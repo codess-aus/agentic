@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "sender": "boss@company.com",
+    "subject": "Q4 Project Deadline - Important",
+    "body": "Hi team, we need to finalize the Q4 project by Friday. Please send your updates by EOD tomorrow. This is critical for our quarterly goals.",
+    "timestamp": "2025-05-28T09:30:00Z",
+    "folder": "work",
+    "read": true,
+    "priority": "high",
+    "category": "work"
+  },
+  {
+    "id": 2,
+    "sender": "mom@family.com",
+    "subject": "Sunday Dinner Plans",
+    "body": "Hi sweetie, just wanted to confirm dinner plans for Sunday. Dad is making his famous lasagna! Can you bring dessert?",
+    "timestamp": "2025-05-28T10:15:00Z",
+    "folder": "personal",
+    "read": false,
+    "priority": "normal",
+    "category": "personal"
+  },
+  {
+    "id": 3,
+    "sender": "noreply@spamsite.com",
+    "subject": "URGENT: You've Won $1,000,000!!!",
+    "body": "Congratulations! You have won our grand prize lottery! Click here immediately to claim your winnings before they expire!",
+    "timestamp": "2025-05-28T08:45:00Z",
+    "folder": "spam",
+    "read": false,
+    "priority": "low",
+    "category": "spam"
+  },
+  {
+    "id": 4,
+    "sender": "hr@company.com",
+    "subject": "Employee Benefits Update",
+    "body": "Dear employees, we are updating our health insurance benefits for 2025. Please review the attached documents and submit your selections by June 15th.",
+    "timestamp": "2025-05-28T11:00:00Z",
+    "folder": "work",
+    "read": false,
+    "priority": "normal",
+    "category": "work"
+  },
+  {
+    "id": 5,
+    "sender": "newsletter@deals.com",
+    "subject": "50% OFF Everything! Limited Time!",
+    "body": "Don't miss out on our biggest sale of the year! Everything is 50% off for the next 24 hours only. Shop now before it's too late!",
+    "timestamp": "2025-05-28T12:30:00Z",
+    "folder": "spam",
+    "read": false,
+    "priority": "low",
+    "category": "spam"
+  },
+  {
+    "id": 6,
+    "sender": "john@friend.com",
+    "subject": "Weekend Hiking Trip",
+    "body": "Hey! Want to join us for a hiking trip this weekend? We're planning to hit the mountain trails early Saturday morning. Let me know if you're interested!",
+    "timestamp": "2025-05-28T14:20:00Z",
+    "folder": "personal",
+    "read": false,
+    "priority": "normal",
+    "category": "personal"
+  }
+]
