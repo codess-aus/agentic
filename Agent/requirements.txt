@@ -1,0 +1,15 @@
+# No external dependencies required for this simple email sorter agent
+# Uses only Python standard library modules:
+# - json
+# - re
+# - datetime
+# - typing
+# - dataclasses
+# - enum
+# - argparse
+# - sys
+
+# For future enhancements, you might want to add:
+# openai>=1.0.0        # For LLM-based classification
+# requests>=2.31.0     # For API calls
+# python-dotenv>=1.0.0 # For environment variables
